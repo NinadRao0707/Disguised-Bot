@@ -1,0 +1,491 @@
+Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.
+
+Ubuntu users are apt to get this joke.
+
+Obfuscated Reality Mappers (ORMs) can be useful database tools.
+
+Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+
+Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with glee, only to see the announcement for Python 4.4.
+
+An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+
+When your hammer is C++, everything begins to look like a thumb.
+
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
+
+To understand recursion you must first understand recursion.
+
+I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
+
+'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
+
+How many programmers does it take to change a lightbulb? None, that's a hardware problem.
+
+What's the object-oriented way to become wealthy? Inheritance.
+
+Why don't jokes work in octal? Because 7 10 11.
+
+How many programmers does it take to change a lightbulb? None, they just make darkness a standard.
+
+Two bytes meet. The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'
+
+Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
+
+Old C programmers don't die, they're just cast into void.
+
+Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'
+
+Why did the programmer quit his job? Because he didn't get arrays.
+
+Why do Java programmers have to wear glasses? Because they don't see sharp.
+
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
+
+.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+
+Hardware: The part of a computer that you can kick.
+
+A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.
+
+Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.
+
+In C we had to code our own bugs. In C++ we can inherit them.
+
+How come there is no obfuscated Perl contest? Because everyone would win.
+
+If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
+
+How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
+
+What do you call a programmer from Finland? Nerdic.
+
+What did the Java code say to the C code? A: You've got no class.
+
+Why did Microsoft name their search engine BING? Because It's Not Google.
+
+Pirates go 'arg!', computer pirates go 'argv!'
+
+Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+
+Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
+
+Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
+
+How many Prolog programmers does it take to change a lightbulb? false.
+
+Real programmers can write assembly code in any language.
+
+Waiter: Would you like coffee or tea? Programmer: Yes.
+
+What do you get when you cross a cat and a dog? Cat dog sin theta.
+
+If loving you is ROM I don't wanna read write.
+
+A programmer walks into a foo...
+
+A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
+
+What is Benoit B. Mandelbrot's middle name? Benoit B. Mandelbrot.
+
+Why are you always smiling? That's just my... regular expression.
+
+ASCII stupid question, get a stupid ANSI.
+
+A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he
+
+Why do sin and tan work? Just cos.
+
+Java: Write once, run away.
+
+I would tell you a joke about UDP, but you would never get it.
+
+A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.
+
+My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!
+
+I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
+
+QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+
+A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.
+
+How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+
+How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+
+Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.
+
+3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+
+How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!
+
+What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.
+
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+
+There are 10 types of people: those who understand binary and those who don't.
+
+There are 2 types of people: those who can extrapolate from incomplete data sets...
+
+There are II types of people: Those who understand Roman Numerals and those who don't.
+
+There are 10 types of people: those who understand hexadecimal and 15 others.
+
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
+
+There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+
+What do you call eight hobbits? A hobbyte.
+
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+A good programmer is someone who always looks both ways before crossing a one-way street.
+
+There are two ways to write error-free programs; only the third one works.
+
+QAs consist of 55% water, 30% blood and 15% Jira tickets.
+
+Sympathy for the Devil is really just about being nice to QAs.
+
+How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
+
+A programmer crashes a car at the bottom of a hill, a bystander asks what happened, he says \"No idea. Let's push it back up and try again\".
+
+What do you mean 911 is only for emergencies? I've got a merge conflict.
+
+Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.
+
+Why did the QA cross the road? To ruin everyone's day.
+
+Number of days since I have encountered an array index error: -1.
+
+Number of days since I have encountered an off-by-one error: 0.
+
+Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
+
+Microsoft hold a bi-monthly internal \"productive week\" where they use Google instead of Bing.
+
+Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
+
+Finding a good PHP developer is like looking for a needle in a haystack. Or is it a hackstack in a needle?
+
+Unix is user friendly. It's just very particular about who its friends are.
+
+The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+
+An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...
+
+What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.
+
+!false, (It's funny because it's true)
+
+['hip', 'hip'] (hip hip array!)
+
+Which body part does a programmer know best? ARM
+
+Relationship status? I'll leave the relations to the database.
+
+How do you get the code for the bank vault? You checkout their branch.
+
+How did the developer announce their engagement? They returned true!
+
+Why did the security conscious engineer refuse to pay their dinner bill? Because they could not verify the checksum.
+
+What do you call a busy waiter? A server.
+
+What do you call an idle server? A waiter.
+
+[Please Enter New Password] fortnight [Error: Password is Two Week]
+
+How many Prolog programmers does it take to change a lightbulb?Yes.
+
+I’ve been hearing news about this big boolean. Huge if true.
+
+What diet did the ghost developer go on? Boolean
+
+Why was the developer unhappy at their job? They wanted arrays.
+
+Why did 10 get paid less than '10'? There was workplace inequality.
+
+Why was the function sad after a successful first call? It didn’t get a callback.
+
+Why did the angry function exceed the callstack size? It got into an Argument with itself
+
+Whats the object-oriented way to become wealthy? Inheritance
+
+Why did the developer ground their kid? They weren't telling the truthy
+
+What did the array say after it was extended? Stop objectifying me.
+
+!false ... It's funny 'cause it's true.
+
+Where did the parallel function wash its hands? Async
+
+I'm starting a band called HTML Encoder ... Looking to buy a guitar &amp;
+
+Why did the functions stop calling each other? Because they had constant arguments.
+
+What's the second movie about a database engineer called? The SQL.
+
+Why doesn't Hollywood make more Big Data movies?NoSQL.
+
+A programmer's significant other tells them, 'Run to the store and pick up a loaf of bread. If they have eggs, get a dozen.' The programmer comes home with 12 loaves of bread.
+
+What did the spider do on the computer? Made a website!
+
+What did the computer do at lunchtime? Had a byte!
+
+What does a baby computer call his father? Data!
+
+Why did the computer keep sneezing? It had a virus!
+
+What is a computer virus? A terminal illness!
+
+I never tell the same joke twice ... I have a DRY sense of humor.
+
+Why was the computer freezing? It left its Windows open!
+
+Why was there a bug in the computer? Because it was looking for a byte to eat?
+
+Why did the computer squeak? Because someone stepped on its mouse!
+
+What do you get when you cross a computer and a life guard? A screensaver!
+
+Where do all the cool mice live? In their mousepads!
+
+What do you get when you cross a computer with an elephant? Lots of memory!
+
+Java truly is an OOP language... As in: OOPs I used Java!
+
+How do programming pirates pass method parameters? Varrrrarrrgs.
+
+How do programming shepherds count their flock? With lambda functions
+
+What airline do developers prefer when they're in a rush? Delta.
+
+How did pirates collaborate before computers ? Pier to pier networking.
+
+Why don't bachelors like Git? Because they are afraid to commit.
+
+A SQL query goes into a bar, walks up to two tables and asks:Can I JOIN you?
+
+How does a developer make a cheer? ['hip','hip']
+
+Why was the developer's family upset with them at dinner? They forgot to git squash before going home
+
+What did JavaScript call his son? JSON!
+
+What did the proud React component say to its child? I've got to give you props
+
+What did the server say to his client who was having a bad day? Everything's going to be 200
+
+Why did the developer go broke? Because they used up all their cache
+
+Are computers dangerous? Nah, they don't byte. They just nibble a bit.
+
+How did the mafioso kill the Node server? Tie await to it and let it async.
+
+You know what the best thing about booleans is? Even if you are wrong, you are only off by a bit.
+
+Why do UPS drivers get nervous when their internet is unstable? Because they might lose packets.
+
+Why couldn’t the user update a file on a shared server? They didn’t have the write permissions
+
+What do you do when you can't understand your husband's behavior? man man
+
+What do you call a doctor who fixes websites? A URLogist
+
+How many developers does it take to change a light bulb? None. It's a hardware issue
+
+Why do programmers always mix up Halloween and Christmas? Because 31 OCT == 25 DEC
+
+Why do kayakers make bad programmers? Because they're afraid of waterfall.
+
+What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
+
+What do computers love to do at the beach? Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
+
+What do you call a computer that sings? A-dell.
+
+What's a compiler developer's favorite spice? Parsley.
+
+When do front end developers go out to eat? On their lunch <br>.
+
+A SQL developer walked into a NoSQL bar. They left because they couldn't find a table.
+
+How do you help JS errors? You console them!
+
+Why don't parents teach their kids about regular expressions? Because they don't want them playing with matches
+
+Why didn't the <div /> get invited to the dinner party? Because it had no class!
+
+Why aren't cryptocurrency engineers allowed to vote? Because they're miners!
+
+Why did the constant break up with the variable? Because they changed.
+
+Why did the database administrator leave his wife? She had one-to-many relationships.
+
+Asynchronous JavaScript is amazing. I Promise you, await and see.
+
+What did the Class say in court when put on trial? I strongly object!
+
+Why do Java developers wear glasses? Because they don't C#!
+
+What are the three hardest problems in computer science? Naming things and off-by-one errors
+
+What did the fruit basket say to the developer? I hope you're ready for some pear programming!
+
+How does a sysadmin keep a fire going? They rotate the logs.
+
+I love you and I only love you. Does that turn you on? AND GATE: No.
+
+Why do all HTML emails get blocked? Because they are all <span />.
+
+What did the process say after working in an infinite loop all day? I need a break.
+
+An Agent died unexpectedly. How was the crime solved? By looking at the Stack Trace.
+
+Why did the document store go out of business? It had NoSQL.
+
+Why can't SQL and NoSQL Developers date one other? Because they don't agree on relationships.
+
+Why is Python like the Soviet Union? Because it has no private fields
+
+Where did the API go to eat? To the RESTaurant
+
+Why shouldn't you trust Matlab developers? Because they're always plotting something.
+
+Why did the developer have to quit smoking? Because they couldn't afford to pay the new syntax.
+
+How does a programmer open a jar for their significant other? They install Java
+
+What did the psychic say to the developers? I see dev people.
+
+Where does the pirate stash all of their digital treasures? RAR
+
+What is React's favorite movie genre? Suspense
+
+Why couldn't the React component understand the joke? Because it didn't get the context.
+
+What did XHR say to AJAX when it thought it was being a Mean Girl? Stop trying to make fetch happen!
+
+What was Grace Hopper's favorite car? VW Bug
+
+What sits on a pirate's shoulder and calls, 'Pieces of seven, Pieces of seven'? Parroty error.
+
+What is a pirate's favorite programming language? You'd think it was R, but a pirate's first love is Objectively C.
+
+Why did the programmer come home crying? His friends were always boolean him.
+
+What PostgreSQL library should Python developers use for adult-oriented code? psycoPG13
+
+The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, 'I could've had a V8'.
+
+What do you call a beverage that is 75% Root Beer, and 75% Ice Cream? A Float
+
+What accommodations did the JavaScript developer request at the hotel? A room with a Vue.
+
+Where do developers drink? The Foo bar
+
+Why was the engineer upset when the bartender served them 1 shot of whiskey? Because they thought they ordered a double.
+
+Why do assembly programmers need to know how to swim? Because they work below C level.
+
+Who used the internet before it was cool? Httpsters
+
+What kind of computer can hold a musical note? A Dell.
+
+Why did the web developer always go to the wrong hotel room? They were in room 301.
+
+How do you stop a web developer stealing your stuff? Write 403 on it.
+
+Why are machine learning models so fit? Because they do weight training.
+
+Why did Gargamel shut down the internet? Because he didn't want people SMURFING the web!
+
+What did the command line die of? A Terminal illness.
+
+Did you hear what the clumsy cryptographer did to their password? Made a hash of it.
+
+Why are keyboards always working so hard? Cause they have two shifts!
+
+What are clouds made of? Mostly linux servers.
+
+Why did Tom Selleck never git commit anything? Because he thought he mustache his work.
+
+How does Mr. Potato Head (dev edition 0.0.1) remove his mustache? git stache pop
+
+Why can't you use 'Soup' as your password? Because it isn't stroganoff
+
+Why do developers use mechanical keyboards? To strongly type their code.
+
+A new database query walks into a bar. The server says 'Sorry, cache only.'
+
+What's the best tool for automatically ignoring long email threads about tech buzzwords? 'Block-chain'
+
+What is a developer's favorite country song? Hello World - by Lady Antebellum
+
+Why was nobody given food at the developer conference? It was a serverless function!
+
+Why did the developer cancel their dinner plans? They were unable to fulfil peer dependencies
+
+Why did the functional programmer finally move out of their house? For(e) closure
+
+How do JavaScript developers break up? They always promise to callback
+
+Why do developers mixup Terminals and Polygraphs? Because they both can see a lie (CLI)
+
+Did you hear about the programmer that was scared of IDEs? They retreated back into their shell
+
+What do you call optimistic front-end developers? Stack half-full developers.
+
+Have you heard the one about the Corduroy pillow? It's making HEADLINES!
+
+Hey officer! How did the hackers escape? No idea. They just ransomware.
+
+Why can’t data engineers become hat makers? They can only guarantee two thirds of a CAP!
+
+How did the hippie learn about database transactions? By taking ACID
+
+Why is it called the Dark Ages? There were a lot of KNIGHTS!
+
+What did the Network Administrator say when they caught a nasty virus? It hurts when IP
+
+Which programming language is the shortest? HTML. Because it doesn't have a neck between its <head> and <body>.
+
+What good can come of 2989 witches casting a hex? None, it is always 0xBAD
+
+Did you hear about the witch who was off by two when casting a hex? They failed to make the target DEAD and made them DEAF instead!
+
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane. Lisp programmers don't make prank calls. They make FUNCALLs
+
+Why do Front-End Developers eat lunch alone? Because, they don't know how to join tables.
+
+What advice do you give to a JS developer who has never played baseball? Try catch.
+
+Got any funny DNS jokes? Yeah, but it may take 24 hours to get it.
+
+Why were A & B so frustrated? Because they couldn’t cd…
+
+Where do programmer dad's store their jokes? In a dad-a-base.
+
+Why do Websockets make the best therapists? They are always listening.
+
+Why did the ALU refuse to add two subnibbles. Because it refuses to be seen doing a two-bit operation.
+
+How do you know your baby is going to be a developer when they grow up? Their first word is 'Hello word!'
+
+What kind of image saved the day? The HERO image!
+
+Why do programmers prefer dark mode? Because light attracts bugs!
+
+Does this vaccine contain a microchip? I don't know for sure, but it must be ARM based.
