@@ -1,5 +1,7 @@
 import discord
 import os
+import random
+from random import randint
 from discord import member
 from discord.message import Attachment
 import requests
@@ -60,6 +62,7 @@ async def help(ctx):
     em.add_field(name='!fact', value='Want to find out something new? Fact command will give you the fact of the day !!', inline=False)
     em.add_field(name='!meme', value='Bored from 9gag? Disguised bot will provide you the funniest memes XD', inline=False)
     em.add_field(name='!whatsapp', value='Lazy to bring a mobile to send a whatsapp message? Disguised bot will do your job :0', inline=False)
+    em.add_field(name='!rps', value='Play Rock Paper Scissors with Disguised Bot and make sure you win once :)', inline=False)
     await ctx.channel.send(embed=em)
 
 # Welcome command
@@ -111,6 +114,48 @@ async def magic_ball(ctx, question):
 async def magic_ball_error(ctx, error):
     if isinstance(error, commands.MissingRequiredArgument):
         await ctx.channel.send('Please specify the arguments correctly !!')
+
+# Rock Paper Scissors command
+@bot.command(name='rps', help='Play Rock Paper Scissors with Disguised Bot')
+async def rps(ctx, message):
+    choose = ["rock", "paper", "scissors"]
+    # Random choice for bot
+    disguisedbot = choose[randint(0, 2)]
+    player = message.lower()
+    
+    if player == "rock":
+        await ctx.channel.send("You choosed 👊")
+    elif player == "paper":
+        await ctx.channel.send("You choosed ✋")
+    else:
+        await ctx.channel.send("You choosed ✌️")
+        
+    if disguisedbot == "rock":
+        await ctx.channel.send("Disguised Bot choosed 👊")
+    elif disguisedbot == "paper":
+        await ctx.channel.send("Disguised Bot choosed ✋")
+    else:
+        await ctx.channel.send("Disguised Bot choosed ✌️")
+        
+    if player == disguisedbot:
+        await ctx.channel.send("Tie!")
+    elif player == "rock":
+        if disguisedbot == "paper":
+            await ctx.channel.send("You lose! ✋ covers 👊")
+        else:
+            await ctx.channel.send("You win! 👊 smashes ✌️")
+    elif player == "paper":
+        if disguisedbot == "scissors":
+            await ctx.channel.send("You lose! ✌️ cut ✋")
+        else:
+            await ctx.channel.send("You win! ✋ covers 👊")
+    elif player == "scissors":
+        if disguisedbot == "rock":
+            await ctx.channel.send("You lose! 👊 smashes ✌️")
+        else:
+            await ctx.channel.send("You win! ✌️ cut ✋")
+    else:
+        await ctx.channel.send("That's not a valid play. Check your spelling!")
 
 # Tic Tac Toe command
 @bot.command(name='tictactoe', help='Play TicTacToe with your friend')
@@ -232,7 +277,7 @@ async def funny_joke(ctx):
     await ctx.channel.send(rand_joke)
 
 # Roast me command
-@bot.command(name='roastme', help='Will roast a tagged guy !!')
+@bot.command(name='roastme', help='Will roast you !!')
 async def roast_message(ctx):
     roast_file = open("/Disguised Bot/roasts.txt", mode="r", encoding="utf8")
     roast_file_jokes = roast_file.read().split("\n")
